@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2025-02-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cd95771`](https://github.com/stdlib-js/stdlib/commit/cd95771e0be630dd906038b89b3ce84ef6bad861) - **bench:** update random value generation [(#5337)](https://github.com/stdlib-js/stdlib/pull/5337) _(by Karan Anand)_
 -   [`ed5c4cc`](https://github.com/stdlib-js/stdlib/commit/ed5c4cccc06ad98f4de90310bf24a5a373761b43) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`cfc0665`](https://github.com/stdlib-js/stdlib/commit/cfc0665435a1f99158d7fed39b8873dea6aa6209) - **docs:** add missing private tag _(by Philipp Burckhardt)_
@@ -28,9 +29,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
