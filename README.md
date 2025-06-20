@@ -193,6 +193,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/math-base/special/acot`][@stdlib/math/base/special/acot]</span><span class="delimiter">: </span><span class="description">compute the inverse cotangent.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/acotdf`][@stdlib/math/base/special/acotdf]</span><span class="delimiter">: </span><span class="description">compute the arccotangent (in degrees) of a single-precision floating-point number.</span>
 -   <span class="package-name">[`@stdlib/math-base/special/acoth`][@stdlib/math/base/special/acoth]</span><span class="delimiter">: </span><span class="description">compute the inverse hyperbolic cotangent.</span>
 -   <span class="package-name">[`@stdlib/math-base/special/atand`][@stdlib/math/base/special/atand]</span><span class="delimiter">: </span><span class="description">compute the arctangent (in degrees) of a double-precision floating-point number.</span>
 -   <span class="package-name">[`@stdlib/math-base/special/cotd`][@stdlib/math/base/special/cotd]</span><span class="delimiter">: </span><span class="description">compute the cotangent of an angle measured in degrees.</span>
@@ -278,6 +279,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 <!-- <related-links> -->
 
 [@stdlib/math/base/special/acot]: https://github.com/stdlib-js/math-base-special-acot
+
+[@stdlib/math/base/special/acotdf]: https://github.com/stdlib-js/math-base-special-acotdf
 
 [@stdlib/math/base/special/acoth]: https://github.com/stdlib-js/math-base-special-acoth
 
