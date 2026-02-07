@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-acotd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Compute the arccotangent (in degrees) of a double-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -40,16 +40,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-napi-unary": "^0.2.4",
+    "@stdlib/math-base-napi-unary": "^0.2.7",
     "@stdlib/math-base-special-acot": "^0.2.3",
-    "@stdlib/math-base-special-rad2deg": "^0.2.3",
+    "@stdlib/math-base-special-rad2deg": "^0.2.4",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float64-eps": "^0.2.2",
-    "@stdlib/math-base-assert-is-nan": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.2",
+    "@stdlib/math-base-assert-is-nan": "^0.2.3",
+    "@stdlib/math-base-special-abs": "^0.2.3",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
