@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ac0d55f`](https://github.com/stdlib-js/stdlib/commit/ac0d55f57c0eba355827ab600b2b6a6081f04d61) - **docs:** add equations [(#14684)](https://github.com/stdlib-js/stdlib/pull/14684) _(by Karan Anand)_
 -   [`f3e5e57`](https://github.com/stdlib-js/stdlib/commit/f3e5e57308e6e3751fe62e82a1a0c80c397aa560) - **test:** migrate `math/base/special/acotd` to ULP-based testing [(#12785)](https://github.com/stdlib-js/stdlib/pull/12785) _(by Philipp Burckhardt)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
